@@ -1,0 +1,5 @@
+NameOne = input("Enter Name: ")
+NameTwo = input("Enter Name: ")
+NameThree = input("Enter Name: ")
+result = ("Your Classmates are: " + NameOne + " , " + NameTwo + " & " + NameThree)
+print(result)
